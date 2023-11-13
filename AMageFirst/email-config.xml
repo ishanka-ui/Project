@@ -1,0 +1,13 @@
+<extentreports>
+    <email>
+        <recipient>your-email@example.com</recipient>
+        <subject>Guru Login Test Report</subject>
+        <host>your-smtp-host</host>
+        <port>587</port>
+        <username>your-smtp-username</username>
+        <password>your-smtp-password</password>
+        <protocol>smtp</protocol>
+        <tls>true</tls>
+        <timeout>10000</timeout>
+    </email>
+</extentreports>
